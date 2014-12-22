@@ -35,11 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The co[n]uercyon of swerersHawes, Stephen, d. 1523?1509Approx. 20 KB of XML-encoded text transcribed
+
 #####Body#####
-The co[n]uercyon of swerersHawes, Stephen, d. 1523?1509Approx. 20 KB of XML-encoded text transcribed
+THe fruytfull sentence & the noble werkesTo our doctryne wryten in olde antyquyteBy many grete and r
 #####Back#####
-The co[n]uercyon of swerersHawes, Stephen, d. 1523?1509Approx. 20 KB of XML-encoded text transcribed
+Enprynted at London in Flete strete at the sygne of the sonne by Wynkyn de Worde. prynter vnto ye mo
 **Types of content**
 
   * There are 355 **verse** lines!
